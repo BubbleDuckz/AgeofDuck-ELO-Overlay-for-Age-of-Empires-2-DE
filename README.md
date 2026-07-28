@@ -1,4 +1,4 @@
-<h1>🦆 Age of Duck Mod</h1>
+<h1>🦆 Age of Duck Mod | AOE 2 DE In-Game Overlay</h1>
 <h3>Welcome to Age of Duck Mod - ELO & Helper Overlay for Age of Empires 2 DE 🎉</h3>
 
 <!-- Banner -->
